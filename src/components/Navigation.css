@@ -1,0 +1,21 @@
+.nav { 
+  height: 100vh;
+  background-color: #347ab4;
+  color: #fff;
+  width: 230px;
+  text-align: center;
+  float: left;
+}
+
+.logo {
+  width: 60%;
+  margin-top: 10px;
+  margin-bottom: 20px;  
+}
+
+.nav-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  font-size: 20px;
+}
